@@ -1,8 +1,6 @@
-# Sorogbesi
+### Sorogbesi
 
-## ...
-
-### A simple Chat application build based on a react (frontend) and go (backend) that communicate via websockets. The stacks are
+A simple Chat application based on a React (frontend) and Go (backend) that communicate via websockets. The stacks are
 
 ```
 * React
